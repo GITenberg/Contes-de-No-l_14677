@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5633'
     url: http://www.gutenberg.org/2009/agents/5633
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14677#Contes-de-No-l
 gutenberg_bookshelf:
 - FR Contes
 - Christmas
