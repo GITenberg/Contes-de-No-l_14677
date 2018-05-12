@@ -1,0 +1,27 @@
+_repo: Contes-de-No-l_14677
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mirmont, Madame Henri de la Ville de
+    gutenberg_agent_id: '5633'
+    url: http://www.gutenberg.org/2009/agents/5633
+description: ''
+gutenberg_bookshelf:
+- FR Contes
+- Christmas
+gutenberg_issued: '2005-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14677'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PQ'
+title: Contes de Noël
+url: http://www.gutenberg.org/ebooks/14677
